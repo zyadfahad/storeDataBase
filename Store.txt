@@ -39,7 +39,8 @@ create table order_products(
     foreign key (product_id) references products(id),
     quantity int default 0
 );
-
+#DQL
+select * from account;
 
 #DML
 insert into countries values ('966','Saudi Arabia','Asia');
