@@ -44,7 +44,7 @@ select * from account;
 
 #DML
 insert into countries values ('966','Saudi Arabia','Asia');
-insert into users values ('133380000','ziyad','zyad@gmail.com','m','1/9/1999','2022/12/19','966');
+insert into users values ('133380000','ziyad','zyad@gmail.com','m','1/9/1999','20221219','966');
 insert into orders values('1','133380000','start','2022/12/19');
-insert into products values('1','headset','200','available','2022/11/30');
+insert into products values('1','headset','200','available','20221130');
 insert into products values('2','mouse','300','available','2022/11/30');
